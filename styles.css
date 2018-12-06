@@ -1,0 +1,30 @@
+h1{
+   text-align: center;
+   color:red;
+}
+p{
+   text-align: center;
+   color:blue;
+}
+#header{
+   background-image: url("https://sps.boisestate.edu/patriotic/files/2016/08/american-flag-header.jpg");
+   background-size:100%;
+}
+#photo{
+    text-align:center;
+    background-color: blue;
+}
+#donate{
+   background-color: red;
+}
+h2{
+text-align:center;
+}
+#photos{
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+h3{
+  background-image:url("https://www.tabletmag.com/wp-content/uploads/2017/08/rosebanner-2.jpg");
+}
